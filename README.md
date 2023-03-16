@@ -33,3 +33,5 @@ Design: Adobe XD, Figma
 
 #
 
+[website]: https://omartarekdeveloper.000webhostapp.com/
+[instagram]: https://www.instagram.com/omar__2jz/
