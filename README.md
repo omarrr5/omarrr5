@@ -10,3 +10,6 @@ Skills
 Frontend: React, React Native, PHP, HTML5, CSS3, SASS, Java, C++, JavaScript, TypeScript
 
 Design: Adobe XD, Figma
+
+---
+Languages and tools
