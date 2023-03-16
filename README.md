@@ -34,5 +34,9 @@ Design: Adobe XD, Figma
 
 #
 
+<details>
+ <summary><h3>👨‍💻 Omar tarek yehya</h3></summary>
+    Fresh Software Engineer with a huge background in creating and executing innovative software solutions to enhance business productivity. Highly experienced in all aspects of the software development lifecycle and end-to-end project management, from concept through to development and delivery.
+
 [website]: https://omartarekdeveloper.000webhostapp.com/
 [instagram]: https://www.instagram.com/omar__2jz/
