@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I am Omar Tarek, an egyptian 🇪🇬 full stack developer based in Malaysia 🇲🇾.
+I am Omar Tarek, an Egyptian 🇪🇬 full stack developer based in Malaysia 🇲🇾.
 
-Currently focusing on developing mobile apps using React + JavaScript. And during my leisure time, I like to explore react.js for fun just for the sake to enhance and enrich my coding knowledge on hybrid web development technologies.
+Currently focusing on developing mobile apps using React + JavaScript. During my leisure time, I like to explore react.js for fun just for the sake of enhancing and enriching my coding knowledge on hybrid web development technologies.
 
 Outside of work & programming, I like to play video games and explore cars.
 
 Skills
-Frontend: React, React Native, PHP, HTML5, CSS3, SASS, Java, C++, JavaScript
+Frontend: React, PHP, HTML5, CSS3, SASS, Java, C++, JavaScript
 
 Design: Adobe XD, Figma
 
